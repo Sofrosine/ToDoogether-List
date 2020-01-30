@@ -43,4 +43,7 @@ ToDo List application for user who want to be easier on making planning.
 #### With npm
 1. npx react-native start
 2. npx react-native run-android
+
+## E. Download APK
+https://drive.google.com/open?id=1mwIVOC4SE0KvqudtLPjXFesm2KXSRfdD
   
