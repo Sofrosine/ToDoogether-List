@@ -8,7 +8,7 @@
 ![Repo List](https://raw.githubusercontent.com/Sofrosine/ToDoogether-List/master/screenshot/location.jpeg)
 
 ## A.Introduction
-ToDo List application for user who want to be easier on making planning.
+ToDo List application, an application for user who wants to make a plan.
 
 ## B. Depedencies
     "@react-native-community/async-storage": "^1.7.1",
